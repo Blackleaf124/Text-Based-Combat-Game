@@ -1,0 +1,1 @@
+I'm gonna put instruction here to how to play the game eventually. If you're reading this then you'll just have to figue it out using the functions in the code. Forgive me.
